@@ -1,0 +1,12 @@
+{
+    "dish_1": {
+        "description": "some description of dish_1",
+        "ingredients": ["list", "of", "dish_1", "ingredients"],
+        "steps": ["list", "of", "dish_1", "steps"]
+    },
+    "dish_2": {
+        "description": "some description of dish_2",
+        "ingredients": ["list", "of", "dish_2", "ingredients"],
+        "steps": ["list", "of", "dish_2", "steps"]
+    }
+}
