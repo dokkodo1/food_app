@@ -1,34 +1,16 @@
 {
     "countries": {
         "ab": {
-            "dishes": {
-                "dish_1": {
-                    "ingredients": ["some array of ingredients"],
-                    "steps": "[some array of steps]"
-                },
-                "dish_2": {
-                    "ingredients": ["some array of ingredients"],
-                    "steps": "[some array of steps]"
-                }
-            },
+            "dishes": ["dish_1", "dish_2"],
             "languages": ["some array of languages"],
             "greeting": "some greeting",
-            "description": "some description"
+            "description": "some description of ab"
         },
         "cd": {
-            "dishes": {
-                "dish_1": {
-                    "ingredients": ["some array of ingredients"],
-                    "steps": "[some array of steps]"
-                },
-                "dish_2": {
-                    "ingredients": ["some array of ingredients"],
-                    "steps": "[some array of steps]"
-                }
-            },
+            "dishes": ["dish_3", "dish_4"],
             "languages": ["some array of languages"],
             "greeting": "some greeting",
-            "description": "some description"
+            "description": "some description of cd"
         }
     }
 }
