@@ -2,14 +2,14 @@
     "countries": {
         "ab": {
             "dishes": ["dish_1", "dish_2"],
-            "languages": ["some array of languages"],
-            "greeting": "some greeting",
+            "languages": ["some array of ab languages"],
+            "greeting": "some ab greeting",
             "description": "some description of ab"
         },
         "cd": {
             "dishes": ["dish_3", "dish_4"],
-            "languages": ["some array of languages"],
-            "greeting": "some greeting",
+            "languages": ["some array of cd languages"],
+            "greeting": "some cd greeting",
             "description": "some description of cd"
         }
     }

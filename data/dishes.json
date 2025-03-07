@@ -1,14 +1,14 @@
 {
     "dishes": {
         "dish_1": {
-            "dish_name": "name of dish_1",
+            "name": "name of dish_1",
             "description": "some description of dish_1",
             "ingredients": ["list", "of", "dish_1", "ingredients"],
             "steps": ["list", "of", "dish_1", "steps"]
         },
 
         "dish_2": {
-            "dish_name": "name of dish_2",
+            "name": "name of dish_2",
             "description": "some description of dish_2",
             "ingredients": ["list", "of", "dish_2", "ingredients"],
             "steps": ["list", "of", "dish_2", "steps"]
